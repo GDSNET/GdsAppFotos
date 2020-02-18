@@ -1,0 +1,199 @@
+[
+    {
+        "id_sala": 1,
+        "desc_sala": "Sisa del Valle",
+        "f_visualizacion": 0,
+        "f_visualizacion_desc": "Pendiente",        
+        "f_tareas": "0/3"
+    },
+    {
+        "id_sala": 1,
+        "desc_sala": "Game of Thrones",
+        "categorias": [
+            {
+                "id_categoria": "12",
+                "desc_categoria": "jugos"
+    
+            },
+            
+            {
+                "id_categoria": "13",
+                "desc_categoria": "gaseosa"
+    
+            },
+            
+            {
+                "id_categoria": "14",
+                "desc_categoria": "vino"
+    
+            },
+            
+            {
+                "id_categoria": "15",
+                "desc_categoria": "te helado"
+    
+            },
+            
+            {
+                "id_categoria": "16",
+                "desc_categoria": "waipes"
+    
+            },
+            
+            {
+                "id_categoria": "17",
+                "desc_categoria": "ceras"
+    
+            },
+            
+            {
+                "id_categoria": "18",
+                "desc_categoria": "ceras saborizadas"
+    
+            }
+
+        ]
+    },    {
+        "id_sala": 2,
+        "desc_sala": "Viking",
+        "categorias": [
+            {
+                "id_categoria": "1",
+                "desc_categoria": "pancitos"
+    
+            },
+            
+            {
+                "id_categoria": "2",
+                "desc_categoria": "pizzitas"
+    
+            },
+            
+            {
+                "id_categoria": "3",
+                "desc_categoria": "quequitos"
+    
+            },
+            
+            {
+                "id_categoria": "20",
+                "desc_categoria": "virutilla"
+    
+            },
+            
+            {
+                "id_categoria": "21",
+                "desc_categoria": "viruta fina"
+    
+            },
+            
+            {
+                "id_categoria": "21",
+                "desc_categoria": "viruta gruesa"
+    
+            },
+            
+            {
+                "id_categoria": "22",
+                "desc_categoria": "cervezas"
+    
+            }
+
+        ]
+    },
+    {
+        "id_sala": 3,
+        "desc_sala": "Passapoga",
+        "categorias": [
+            {
+                "id_categoria": "12",
+                "desc_categoria": "jugos"
+    
+            },
+            
+            {
+                "id_categoria": "13",
+                "desc_categoria": "gaseosa"
+    
+            },
+            
+            {
+                "id_categoria": "14",
+                "desc_categoria": "vino"
+    
+            },
+            
+            {
+                "id_categoria": "15",
+                "desc_categoria": "te helado"
+    
+            },
+            
+            {
+                "id_categoria": "16",
+                "desc_categoria": "waipes"
+    
+            },
+            
+            {
+                "id_categoria": "17",
+                "desc_categoria": "ceras"
+    
+            },
+            
+            {
+                "id_categoria": "18",
+                "desc_categoria": "ceras saborizadas"
+    
+            }
+
+        ]
+    },    {
+        "id_sala": 4,
+        "desc_sala": "el Chavo",
+        "categorias": [
+            {
+                "id_categoria": "12",
+                "desc_categoria": "jugos"
+    
+            },
+            
+            {
+                "id_categoria": "13",
+                "desc_categoria": "gaseosa"
+    
+            },
+            
+            {
+                "id_categoria": "14",
+                "desc_categoria": "vino"
+    
+            },
+            
+            {
+                "id_categoria": "15",
+                "desc_categoria": "te helado"
+    
+            },
+            
+            {
+                "id_categoria": "16",
+                "desc_categoria": "waipes"
+    
+            },
+            
+            {
+                "id_categoria": "17",
+                "desc_categoria": "ceras"
+    
+            },
+            
+            {
+                "id_categoria": "18",
+                "desc_categoria": "ceras saborizadas"
+    
+            }
+
+        ]
+    }
+]

@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/mac_gdsnet/.gradle/caches/modules-2/files-2.1/com.drewnoakes/metadata-extractor/2.9.1/53fdf22be10c9d426ec63431c7342895bc642261/metadata-extractor-2.9.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="53fdf22be10c9d426ec63431c7342895bc642261">
+        <dex dex="/Users/mac_gdsnet/Documents/xReact/gds_fotos/android/app/build/intermediates/pre-dexed/debug/metadata-extractor-2.9.1_69d4c230125132da5e5988fc1cdfee449d3662fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac_gdsnet/.android/build-cache/cc00c101d8621269e86dd2f3698c5da147012b65/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/mac_gdsnet/Documents/xReact/gds_fotos/android/app/build/intermediates/pre-dexed/debug/classes_b2b9db31b9fe9fbb6ad8346dad0ca0875e226571.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac_gdsnet/.android/build-cache/35340365e281ca3b7d4e17fb4b7e7b6cff4a1180/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="ae15c560bc6685007440d8a70686f8348bafd791">
+        <dex dex="/Users/mac_gdsnet/Documents/xReact/gds_fotos/android/app/build/intermediates/pre-dexed/debug/classes_ef75a39acbdbc5aac08ff260f14008e199d28cd1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac_gdsnet/.android/build-cache/ba003d80c407a8497e5057a37a119ec2f78d7ea8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="/Users/mac_gdsnet/Documents/xReact/gds_fotos/android/app/build/intermediates/pre-dexed/debug/classes_d467c03ba914d998bafe08a041b648ddc889ff85.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac_gdsnet/.android/build-cache/73ed021f2a5ffc731a776517c1d7f162c7d1218e/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/mac_gdsnet/Documents/xReact/gds_fotos/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_6f1e6b5ca66de8eae9eeba3102f2cd358b5a3c74.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac_gdsnet/.android/build-cache/348e55b228db6b643d40e8c74dc7d86b6ee9d13b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="da59c80e4a1c8df62d2b4188ef3efddab8afa236">
+        <dex dex="/Users/mac_gdsnet/Documents/xReact/gds_fotos/android/app/build/intermediates/pre-dexed/debug/classes_cb7c3d47165a93345140034b3af194d4ef696b4e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac_gdsnet/.android/build-cache/3b2a54198070a3be125e5eb68a785e1b599f7364/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/Users/mac_gdsnet/Documents/xReact/gds_fotos/android/app/build/intermediates/pre-dexed/debug/classes_a9377e7782b34f1bef8a752b225becb7ddc32a5a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac_gdsnet/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.2.1/2287494d4f5f9f3a9a2bb6980e3f32053721b315/core-3.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="/Users/mac_gdsnet/Documents/xReact/gds_fotos/android/app/build/intermediates/pre-dexed/debug/core-3.2.1_566628760b40350ed0cc6b8685a9f43cbd78513e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac_gdsnet/.android/build-cache/6740718e2ccc337ba5c5b970b12c5ad1f652762d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="/Users/mac_gdsnet/Documents/xReact/gds_fotos/android/app/build/intermediates/pre-dexed/debug/classes_4626f4f4936820dcfa3b3da2b3a4c94d35298730.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac_gdsnet/Documents/xReact/gds_fotos/node_modules/react-native-camera/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="ada6d78c365e9ec87902cc3fc027bba12dd48af0">
+        <dex dex="/Users/mac_gdsnet/Documents/xReact/gds_fotos/android/app/build/intermediates/pre-dexed/debug/classes_1609f8ba99bdcf0dbee7526647b28b7866e38a01.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac_gdsnet/.android/build-cache/4713c518c871d296e653828c8e4ac706892dfe77/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/mac_gdsnet/Documents/xReact/gds_fotos/android/app/build/intermediates/pre-dexed/debug/classes_1aed771ca73ee549a5d0fa51591a2b40b09fbb12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac_gdsnet/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/Users/mac_gdsnet/Documents/xReact/gds_fotos/android/app/build/intermediates/pre-dexed/debug/common-1.0.0_b42ea0a54e8dbc8275a12f982d743809df2105bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac_gdsnet/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.1.0/814258103cf26a15fcc26ecce35f5b7d24b73f8/support-annotations-26.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="/Users/mac_gdsnet/Documents/xReact/gds_fotos/android/app/build/intermediates/pre-dexed/debug/support-annotations-26.1.0_300edda78ab9d70f669c250ea0cf94d6155aeff7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac_gdsnet/.android/build-cache/820eb2631a75743ea733546198d729fdde311f99/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="1c9837ec75b2273699379c2ba0ae63d669b4f08c">
+        <dex dex="/Users/mac_gdsnet/Documents/xReact/gds_fotos/android/app/build/intermediates/pre-dexed/debug/classes_45e07859f71d58a3d6cb995f3bab2fa5f614237e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac_gdsnet/Documents/xReact/gds_fotos/node_modules/react-native-vector-icons/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="279750fed3c920d06351dbf32889c1b48203c7ad">
+        <dex dex="/Users/mac_gdsnet/Documents/xReact/gds_fotos/android/app/build/intermediates/pre-dexed/debug/classes_ec7775c85cf9f04811765ccf65120919652c56c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac_gdsnet/.android/build-cache/e26a4cb61077a437ced07da28c8374e630237836/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="87382214d92be4e3c931cb6aa7aa4e827bc179b7">
+        <dex dex="/Users/mac_gdsnet/Documents/xReact/gds_fotos/android/app/build/intermediates/pre-dexed/debug/classes_3cd5b3b2d61616bfe29ec0abebad1f64ab4db0a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac_gdsnet/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.10.0/7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e/okhttp-3.10.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e">
+        <dex dex="/Users/mac_gdsnet/Documents/xReact/gds_fotos/android/app/build/intermediates/pre-dexed/debug/okhttp-3.10.0_aace42c91900dfe17e8896218150d972229df42b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac_gdsnet/.gradle/caches/modules-2/files-2.1/com.adobe.xmp/xmpcore/5.1.2/55615fa2582424e38705487d1d3969af8554f637/xmpcore-5.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="55615fa2582424e38705487d1d3969af8554f637">
+        <dex dex="/Users/mac_gdsnet/Documents/xReact/gds_fotos/android/app/build/intermediates/pre-dexed/debug/xmpcore-5.1.2_e7c0314c0ddbf0079a43f73e05dd5bb6c83073ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac_gdsnet/.android/build-cache/ad540d26292e831c6b7fbac9aa9db5e189fde6ed/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9803a14716e9f462afb5742811f3456c39f3be3a">
+        <dex dex="/Users/mac_gdsnet/Documents/xReact/gds_fotos/android/app/build/intermediates/pre-dexed/debug/classes_789aa181ff110cb2582d608111b8bb1767dfcf5d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac_gdsnet/.android/build-cache/8ff27525c9083efbfb97bee9924fffe69904d468/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="/Users/mac_gdsnet/Documents/xReact/gds_fotos/android/app/build/intermediates/pre-dexed/debug/classes_c87e006d4b7c1d5915d083a61c8d8619a57af5aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac_gdsnet/.android/build-cache/acf29da0aec9ce423231be10a63b1c3a743279d3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="/Users/mac_gdsnet/Documents/xReact/gds_fotos/android/app/build/intermediates/pre-dexed/debug/classes_3b91c9e551ca30ac1a28e4e7526974a010dede27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac_gdsnet/.android/build-cache/022ddf0b16d3e19cd0e4a094289e16c5a205c2e1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/Users/mac_gdsnet/Documents/xReact/gds_fotos/android/app/build/intermediates/pre-dexed/debug/classes_146c68d699fcc3b904fe8c436b19a06ea776ec2d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac_gdsnet/.android/build-cache/6ce73404b101f85cfb8ee17d3b60a3318e81139f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="/Users/mac_gdsnet/Documents/xReact/gds_fotos/android/app/build/intermediates/pre-dexed/debug/classes_601cb93873594e95a90e4a19a12a0a7759d43f49.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac_gdsnet/.android/build-cache/d08248f1329382f919e0feca14eb2ea69ab7329d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f80a752d1333efd4fb9b87da63e73909acb151af">
+        <dex dex="/Users/mac_gdsnet/Documents/xReact/gds_fotos/android/app/build/intermediates/pre-dexed/debug/classes_8726de28a8a1e9bddc121324a6c03c75190d97d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac_gdsnet/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.10.0/ec614c05825ddd2267677a99f585d3913474b125/okhttp-urlconnection-3.10.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="ec614c05825ddd2267677a99f585d3913474b125">
+        <dex dex="/Users/mac_gdsnet/Documents/xReact/gds_fotos/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.10.0_73c4cefc1d93dab549ab9eb7614a7811a93e2bf2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac_gdsnet/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="/Users/mac_gdsnet/Documents/xReact/gds_fotos/android/app/build/intermediates/pre-dexed/debug/common-1.0.0_563f22f24e61c7a0a994eb5a8eddb16ff287ca26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac_gdsnet/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.14.0/102d7be47241d781ef95f1581d414b0943053130/okio-1.14.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="102d7be47241d781ef95f1581d414b0943053130">
+        <dex dex="/Users/mac_gdsnet/Documents/xReact/gds_fotos/android/app/build/intermediates/pre-dexed/debug/okio-1.14.0_d4a840f7ad9f33c0a9d98c9fb5ccd5e220b5aa32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac_gdsnet/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/mac_gdsnet/Documents/xReact/gds_fotos/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_7dff7344dbde37e1ae168fe718b54686f5b9a46e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac_gdsnet/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/mac_gdsnet/Documents/xReact/gds_fotos/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_3634d0d47300b45acd8521490e123c2d8eee1ddd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac_gdsnet/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/mac_gdsnet/Documents/xReact/gds_fotos/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_a866c24d3d90669729b64107b2f86a710fb94a4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac_gdsnet/.android/build-cache/73ed021f2a5ffc731a776517c1d7f162c7d1218e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="e7a850c25a7efbd533c496ab482c980fdafac58d">
+        <dex dex="/Users/mac_gdsnet/Documents/xReact/gds_fotos/android/app/build/intermediates/pre-dexed/debug/classes_96da4b28f091f50ebb33f5245e777e4258ad206f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac_gdsnet/.android/build-cache/60884151b1e05dfed639084690e617419d572b1a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="dc6c0959ecc7b21932675183573b2bcecf2687b9">
+        <dex dex="/Users/mac_gdsnet/Documents/xReact/gds_fotos/android/app/build/intermediates/pre-dexed/debug/classes_5a06600e2df9680f95fa0ff8c9375d9bedbf5cdf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac_gdsnet/.android/build-cache/754dc06f986241438738aff8d1033c967b2eb305/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="/Users/mac_gdsnet/Documents/xReact/gds_fotos/android/app/build/intermediates/pre-dexed/debug/classes_ab044909faa7392830720bd986c139732685e838.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac_gdsnet/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/mac_gdsnet/Documents/xReact/gds_fotos/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_f2066685f180bbde96e1c76a5cf95c2e8b0b0318.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac_gdsnet/Documents/xReact/gds_fotos/node_modules/react-native-fs/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="2bf0671319eba6557e78fb05d49f9b508de3007c">
+        <dex dex="/Users/mac_gdsnet/Documents/xReact/gds_fotos/android/app/build/intermediates/pre-dexed/debug/classes_865cd2dc8a9bfca05ef515f7678a9f57c0ac753f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac_gdsnet/.android/build-cache/e12a7b13a5fe056c6a99752508b26068099357f8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="/Users/mac_gdsnet/Documents/xReact/gds_fotos/android/app/build/intermediates/pre-dexed/debug/classes_447fe14bd4c3bddfbb73e6ed0f2252174ab28c3f.jar" />
+    </item>
+
+</items>

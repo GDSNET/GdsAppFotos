@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "/Users/mac_gdsnet/Documents/xReact/gds_fotos/android/app/build/intermediates/res/merged/release/anim/catalyst_slide_up.xml",
+        "source": "/Users/mac_gdsnet/.android/build-cache/73ed021f2a5ffc731a776517c1d7f162c7d1218e/output/res/anim/catalyst_slide_up.xml"
+    },
+    {
+        "merged": "/Users/mac_gdsnet/Documents/xReact/gds_fotos/android/app/build/intermediates/res/merged/release/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/mac_gdsnet/.android/build-cache/e12a7b13a5fe056c6a99752508b26068099357f8/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/mac_gdsnet/Documents/xReact/gds_fotos/android/app/build/intermediates/res/merged/release/anim/tooltip_exit.xml",
+        "source": "/Users/mac_gdsnet/.android/build-cache/e12a7b13a5fe056c6a99752508b26068099357f8/output/res/anim/tooltip_exit.xml"
+    },
+    {
+        "merged": "/Users/mac_gdsnet/Documents/xReact/gds_fotos/android/app/build/intermediates/res/merged/release/anim/catalyst_slide_down.xml",
+        "source": "/Users/mac_gdsnet/.android/build-cache/73ed021f2a5ffc731a776517c1d7f162c7d1218e/output/res/anim/catalyst_slide_down.xml"
+    },
+    {
+        "merged": "/Users/mac_gdsnet/Documents/xReact/gds_fotos/android/app/build/intermediates/res/merged/release/anim/catalyst_push_up_out.xml",
+        "source": "/Users/mac_gdsnet/.android/build-cache/73ed021f2a5ffc731a776517c1d7f162c7d1218e/output/res/anim/catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/Users/mac_gdsnet/Documents/xReact/gds_fotos/android/app/build/intermediates/res/merged/release/anim/catalyst_push_up_in.xml",
+        "source": "/Users/mac_gdsnet/.android/build-cache/73ed021f2a5ffc731a776517c1d7f162c7d1218e/output/res/anim/catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "/Users/mac_gdsnet/Documents/xReact/gds_fotos/android/app/build/intermediates/res/merged/release/anim/catalyst_fade_in.xml",
+        "source": "/Users/mac_gdsnet/.android/build-cache/73ed021f2a5ffc731a776517c1d7f162c7d1218e/output/res/anim/catalyst_fade_in.xml"
+    },
+    {
+        "merged": "/Users/mac_gdsnet/Documents/xReact/gds_fotos/android/app/build/intermediates/res/merged/release/anim/abc_fade_in.xml",
+        "source": "/Users/mac_gdsnet/.android/build-cache/e12a7b13a5fe056c6a99752508b26068099357f8/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/mac_gdsnet/Documents/xReact/gds_fotos/android/app/build/intermediates/res/merged/release/anim/abc_slide_in_top.xml",
+        "source": "/Users/mac_gdsnet/.android/build-cache/e12a7b13a5fe056c6a99752508b26068099357f8/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/mac_gdsnet/Documents/xReact/gds_fotos/android/app/build/intermediates/res/merged/release/anim/abc_popup_enter.xml",
+        "source": "/Users/mac_gdsnet/.android/build-cache/e12a7b13a5fe056c6a99752508b26068099357f8/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/mac_gdsnet/Documents/xReact/gds_fotos/android/app/build/intermediates/res/merged/release/anim/tooltip_enter.xml",
+        "source": "/Users/mac_gdsnet/.android/build-cache/e12a7b13a5fe056c6a99752508b26068099357f8/output/res/anim/tooltip_enter.xml"
+    },
+    {
+        "merged": "/Users/mac_gdsnet/Documents/xReact/gds_fotos/android/app/build/intermediates/res/merged/release/anim/abc_fade_out.xml",
+        "source": "/Users/mac_gdsnet/.android/build-cache/e12a7b13a5fe056c6a99752508b26068099357f8/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/mac_gdsnet/Documents/xReact/gds_fotos/android/app/build/intermediates/res/merged/release/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/mac_gdsnet/.android/build-cache/e12a7b13a5fe056c6a99752508b26068099357f8/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/mac_gdsnet/Documents/xReact/gds_fotos/android/app/build/intermediates/res/merged/release/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/mac_gdsnet/.android/build-cache/e12a7b13a5fe056c6a99752508b26068099357f8/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/mac_gdsnet/Documents/xReact/gds_fotos/android/app/build/intermediates/res/merged/release/anim/abc_slide_out_top.xml",
+        "source": "/Users/mac_gdsnet/.android/build-cache/e12a7b13a5fe056c6a99752508b26068099357f8/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/mac_gdsnet/Documents/xReact/gds_fotos/android/app/build/intermediates/res/merged/release/anim/abc_popup_exit.xml",
+        "source": "/Users/mac_gdsnet/.android/build-cache/e12a7b13a5fe056c6a99752508b26068099357f8/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/mac_gdsnet/Documents/xReact/gds_fotos/android/app/build/intermediates/res/merged/release/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/mac_gdsnet/.android/build-cache/e12a7b13a5fe056c6a99752508b26068099357f8/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/mac_gdsnet/Documents/xReact/gds_fotos/android/app/build/intermediates/res/merged/release/anim/catalyst_fade_out.xml",
+        "source": "/Users/mac_gdsnet/.android/build-cache/73ed021f2a5ffc731a776517c1d7f162c7d1218e/output/res/anim/catalyst_fade_out.xml"
+    }
+]

@@ -1,0 +1,59 @@
+[
+    {
+        "id_sala": 1,        
+        "id_pregunta": 110,        
+        "desc_pregunta": "¿Hoy es Viernes?",  
+        "desc_aclaracion": "",
+        "tipo_pregunta": "2",
+        "tipo_aclaracion": "Cerrada"
+        ,"fotografia" : true
+    },
+    {
+        "id_sala": 1,        
+        "id_pregunta": 111,        
+        "desc_pregunta": "¿Que le pasa a Lupita?",  
+        "desc_aclaracion": "",
+        "tipo_pregunta": "1",
+        "tipo_aclaracion": "Abierta",
+        "fotografia" : true
+    },
+    {
+        "id_sala": 1,        
+        "id_pregunta": 112,        
+        "desc_pregunta": "¿Va para Tongoy?",  
+        "desc_aclaracion": "",
+        "tipo_pregunta": "2",
+        "tipo_aclaracion": "Cerrada"
+        ,"fotografia" : true
+    },
+    {
+        "id_sala": 1,        
+        "id_pregunta": 113,        
+        "desc_pregunta": "¿Tangananica o Tanganana?",  
+        "desc_aclaracion": "",
+        "tipo_pregunta": "1",
+        "tipo_aclaracion": "Abierta"
+        ,"fotografia" : false
+    },
+    {
+        "id_sala": 1,        
+        "id_pregunta": 114,        
+        "desc_pregunta": "¿Esta en Tongoy?",  
+        "desc_aclaracion": "",
+        "tipo_pregunta": "2",
+        "tipo_aclaracion": "Cerrada"
+        ,"fotografia" : false
+    }
+]
+
+
+
+
+
+
+
+
+
+
+
+

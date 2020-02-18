@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/mac_gdsnet/Documents/xReact/gds_fotos/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/Users/mac_gdsnet/.android/build-cache/e12a7b13a5fe056c6a99752508b26068099357f8/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/mac_gdsnet/Documents/xReact/gds_fotos/android/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/mac_gdsnet/.android/build-cache/e12a7b13a5fe056c6a99752508b26068099357f8/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/mac_gdsnet/Documents/xReact/gds_fotos/android/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/Users/mac_gdsnet/.android/build-cache/e12a7b13a5fe056c6a99752508b26068099357f8/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/mac_gdsnet/Documents/xReact/gds_fotos/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/Users/mac_gdsnet/.android/build-cache/e12a7b13a5fe056c6a99752508b26068099357f8/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/mac_gdsnet/Documents/xReact/gds_fotos/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/Users/mac_gdsnet/.android/build-cache/e12a7b13a5fe056c6a99752508b26068099357f8/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/mac_gdsnet/Documents/xReact/gds_fotos/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/Users/mac_gdsnet/.android/build-cache/e12a7b13a5fe056c6a99752508b26068099357f8/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/mac_gdsnet/Documents/xReact/gds_fotos/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/Users/mac_gdsnet/.android/build-cache/e12a7b13a5fe056c6a99752508b26068099357f8/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/mac_gdsnet/Documents/xReact/gds_fotos/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/Users/mac_gdsnet/.android/build-cache/e12a7b13a5fe056c6a99752508b26068099357f8/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/mac_gdsnet/Documents/xReact/gds_fotos/android/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/mac_gdsnet/.android/build-cache/e12a7b13a5fe056c6a99752508b26068099357f8/output/res/color-v23/abc_color_highlight_material.xml"
+    }
+]
